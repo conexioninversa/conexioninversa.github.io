@@ -1,3 +1,4 @@
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnPXJZlhWUd7pquqNjxeKQW2wtNoNOjPZ5Bwz4hxXnNfC_dlCGvM5Yuuj-QLboA7egPq_nEKQYEvgutj5xjTgjfjDErd-6vfOgGGTiQ6UrQPpmH1XW5pAr_pEz9R5toJCbqGYzNxk0imTyT5CUsvfuADEkd6KangETdRXeAcPfyVpnCTMKLzo8fnTrOA/w165-h172/fotopedro.JPG)
 # ¡Bienvenidos al nuevo sitio de CONEXION INVERSA!
 
 Soy Pedro Sánchez Cordero, autor de conexioninversa.
@@ -12,7 +13,8 @@ Como siempre os doy las gracias por ser fieles lectores de blog que realmente es
 
 GRACIAS
 
-Accede al contenido [GitHub Wiki](https://github.com/conexioninversa/conexioninversa.github.io/wiki)
+Accede al contenido técnico [GitHub Wiki](https://github.com/conexioninversa/conexioninversa.github.io/wiki)
+o si lo prefieres al código [Github repositorios](https://github.com/conexioninversa?tab=repositories)
 
 # MI PERFIL
 
@@ -40,5 +42,5 @@ Actualmente soy investigador forense en el área de Respuesta del Banco Santande
 
 Ponente en diversos congresos de Ciberseguridad (RootedCon - BugCON - INCIBE - Sh3llCon - CCN CERT)
 
-
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVusk_hqwmuXU450deEU7a63LsQ-bJ2Yp0leIkL6IonAenTOI0UWNabouCiqUipekX5diafqwwuN89o3UkV7RYCAHF_5GRbKDFIa7ctAsaIMkuHO6GYQWVv9n__-wjMerx8bV1AZWWHSw68bwOPYLQz5ZIp-EMHlz5bJdAsNbEkEUSuc5du9bOJ6FuVw/s836/fotos.PNG)
 
