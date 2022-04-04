@@ -11,3 +11,5 @@ Tras ello, manteniendo la parte forense y dando un toque incorporando "las cazas
 Como siempre os doy las gracias por ser fieles lectores de blog que realmente es el vuestro.
 
 GRACIAS
+
+Accede al contenido [GitHub Wiki](https://github.com/conexioninversa/conexioninversa.github.io/wiki).
