@@ -27,7 +27,7 @@ He desarrollado herramientas open source para la comunidad forense y también he
 
 He participado en las jornadas LookShields organizadas por el ministerio de defensa. También dispongo de la habilitación Nato Secret.
 
-He trabajado en el área de Red Team y Blue Team de Bitdefender analizando malware y ataques persistentes durante más de cuatro años.
+He trabajado en el área de Red Team y Blue Team de Bitdefender analizando malware y ataques persistentes durante más de cuatro años. 
 
 Soy fundador del blog Conexión Inversa y Profesor del Summer BootCamp de INCIBE.
 
